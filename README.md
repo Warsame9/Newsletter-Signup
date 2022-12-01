@@ -2,7 +2,7 @@
 
 This is a newsletter signup page that posts data to the Mail Chimp server via API
 
-## Project Screen Shot(s)
+## Project Preview
 
 ![Screenshot](Newsletter-Signup-Screen-Shot.png)
 
